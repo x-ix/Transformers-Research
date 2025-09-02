@@ -6,9 +6,6 @@ tags:
 - code
 pretty_name: '*'
 ---
-# Tiny Stories
-
-Learning about transformers utilising the tiny stories dataset
 
 # Transformers from scratch
 
